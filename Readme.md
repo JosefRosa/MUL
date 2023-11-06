@@ -1,2 +1,2 @@
-# Zde můžete vidět banner, na kterém jsou také zakládní informace a název školy ![Leták](https://github.com/JosefRosa/MUL/assets/76937639/41b835b6-0e97-469f-af94-d893149949c8)
-# Zde můžete vidět léták, na kterém je skola ve Varnsdorfu. Na letáku můžete vidět základní informace a pár fotek![Snímek obrazovky 2023-11-06 104350](https://github.com/JosefRosa/MUL/assets/76937639/b3473d59-724a-4530-bbcf-bdef406d2171)
+# Zde můžete vidět banner, na kterém jsou také zakládní informace a název školy. ![Leták](https://github.com/JosefRosa/MUL/assets/76937639/41b835b6-0e97-469f-af94-d893149949c8)
+# Zde můžete vidět léták, na kterém je skola ve Varnsdorfu. Na letáku můžete vidět základní informace a pár fotek. ![Snímek obrazovky 2023-11-06 104350](https://github.com/JosefRosa/MUL/assets/76937639/b3473d59-724a-4530-bbcf-bdef406d2171)
